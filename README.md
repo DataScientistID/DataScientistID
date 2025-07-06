@@ -1,10 +1,10 @@
-## Hi there, I am Lifnur 👋
-## Since early 2022, I've been contributing remotely from Indonesia to a Dutch digital agency, leveraging my skills and expertise to drive their global initiatives.
+Hi there, I am Lifnur 👋
+Since early 2022, I've been contributing remotely from Indonesia to a Dutch digital agency, leveraging my skills and expertise to drive their global initiatives.
 
-## For the past two years, I've functioned as an SEO Specialist, driving strategic outcomes for clients across the Netherlands, Belgium, France, and the UK, with client liaison seamlessly managed by our Dutch-based colleagues.
-## My expertise primarily encompasses conducting on-page SEO audits, technical SEO audits, comprehensive SEO performance analysis, competitor analysis, and advanced keyword research.
+For the past two years, I've functioned as an SEO Specialist, driving strategic outcomes for clients across the Netherlands, Belgium, France, and the UK, with client liaison seamlessly managed by our Dutch-based colleagues.
+My expertise primarily encompasses conducting on-page SEO audits, technical SEO audits, comprehensive SEO performance analysis, competitor analysis, and advanced keyword research.
 
-## Leveraging my strong analytical acumen and educational foundation in Business Intelligence, I naturally gravitated towards Data Science.
+Leveraging my strong analytical acumen and educational foundation in Business Intelligence, I naturally gravitated towards Data Science.
 
 <!--
 **DataScientistID/DataScientistID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
